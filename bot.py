@@ -47,7 +47,7 @@ class InstagramBot:
 
 
 
-ig_bot = InstagramBot('PLEASE ENTER THE USER ID','PLEASE ENTER THE PASSWORD',)  # if i dont give ig_bot the chrome crashes
+ig_bot = InstagramBot('PLEASE ENTER THE USER ID','PLEASE ENTER THE PASSWORD',)  # if i dont give '  ig_bot ' chrome browser crashes
 ig_bot.target_id('PLEASE ENTER THE TARGET USER ID')
 ig_bot.likepics(ENTER THE AMOOUNT OF PICTURES )  #enter the number of pictures that you want to like
 
